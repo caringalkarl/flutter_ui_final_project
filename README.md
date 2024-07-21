@@ -2,7 +2,7 @@
 
 CozyControl is a sample UI android application created using Flutter and Dart. It allows users to remotely control their home appliances. This project serves as the final project for Application Development.
 
-Createdy by Bien Joshua Macuha, Ervin Rey Capuno, Karl Phillip Caringal, Nico Angelo Burog
+Created by Bien Joshua Macuha, Ervin Rey Capuno, Karl Phillip Caringal, Nico Angelo Burog
 
 ## Environement Configurations
 Ensure you have the following installed:
@@ -29,9 +29,9 @@ flutter pub get
 This command is used to fetch and install all the package dependencies required for the Flutter project. It initializes the project by ensuring all necessary packages are downloaded and ready to use.
 3. Now open the android emulator and type this command.
 ```bash
-flutter run
+flutter pub run
 ``` 
-It is used to run the flutter 
+It is used to run the flutter package
 
 ## Conrtibutors
 - [Bien Joshua Macuha]()
